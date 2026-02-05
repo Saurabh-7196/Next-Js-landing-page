@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "title": "Build Fast Websites",
+    "subtitle": "Next.js + GSAP + MUI",
+    "image": "/hero.png"
+  },
+  "about": {
+    "heading": "About Us",
+    "description": "We build modern web apps."
+  },
+  "testimonials": [
+    {
+      "name": "John Doe",
+      "role": "CEO",
+      "text": "Great service!"
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Next.js?",
+      "answer": "A React framework."
+    }
+  ]
+}
